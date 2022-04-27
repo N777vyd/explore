@@ -49,7 +49,7 @@ Algorithms are detailed sets of guidelines created for a computer program to com
 ```
 
 ---
-
+Nk
 Similarly, **collections** like "[music](https://raw.githubusercontent.com/github/explore/main/collections/music/index.md)" call out things like their author and display name in Front Matter variables -- with a detailed description in the body of the document. Most importantly, though, collections identify their individual collection items in [a YAML list](https://en.wikipedia.org/wiki/YAML#Basic_components) for the key "items."
 
 _/collections/music/index.md_:
